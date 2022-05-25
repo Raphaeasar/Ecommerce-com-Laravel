@@ -1,7 +1,7 @@
 # Ecommerce-com-Laravel
 Projeto de Ecommerce com PHP, LARAVEL, BOOTSTRAP e MYSQL.
 
---Para Rodar o Prijeto--
+--Para Rodar o Projeto--
 
 1° Passo:
 Baixe o arquivo, descompacte ele. O nome da pasta é lara-teste, colar a pasta no Simulador de Servidor Web de sua preferÊncia (Wampserver ou Xampp);
