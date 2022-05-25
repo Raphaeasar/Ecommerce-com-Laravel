@@ -12,6 +12,7 @@ abaixo;
 
 3° Passo:
 Na pasta do projeto, abrir o terminal de comando (prompt) e digitar o comando para subir o servidor do projeto. O comando é:
+
 -- php artisan serve;
 
 Feito isto vc poderá rodar o projeto tranquilamente. Basicamento o projeto é uma loja virtual de artigos em geral onde é possível cadastrar o cliente e o mesmo 
