@@ -11,6 +11,10 @@ Crie a base dados laraveldb e depois utilize o arquivo laraveldb.sql para subir 
 abaixo;
 
 3° Passo:
+Na pasta do projeto, no terminal didigte o comando:
+--php artisan migrate;
+
+4° Passo:
 Na pasta do projeto, abrir o terminal de comando (prompt) e digitar o comando para subir o servidor do projeto. O comando é:
 
 -- php artisan serve;
