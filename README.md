@@ -11,7 +11,7 @@ Crie a base dados laraveldb e depois utilize o arquivo laraveldb.sql para subir 
 abaixo;
 
 3° Passo:
-Na pasta do projeto, no terminal didigte o comando:
+Na pasta do projeto, no terminal digite o comando:
 --php artisan migrate;
 
 4° Passo:
