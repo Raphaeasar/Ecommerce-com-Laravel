@@ -7,8 +7,7 @@ Projeto de Ecommerce com PHP, LARAVEL, BOOTSTRAP e MYSQL.
 Baixe o arquivo, descompacte ele. O nome da pasta é lara-teste, colar a pasta no Simulador de Servidor Web de sua preferÊncia (Wampserver ou Xampp);
 
 2° Passo:
-Crie a base dados laraveldb e depois utilize o arquivo laraveldb.sql para subir o banco de dados. Depois de configurar o banco, siga o próximo passo
-abaixo;
+Dentro da pasta raiz do projeto, digitar o comando no terminal: -> mysql -u root -e "DROP DATABASE IF EXISTS laraveldb;CREATE DATABASE laraveldb";
 
 3° Passo:
 Na pasta do projeto, no terminal digite o comando:
