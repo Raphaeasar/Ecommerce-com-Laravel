@@ -11,12 +11,11 @@ Dentro da pasta raiz do projeto, digitar o comando no terminal: -> mysql -u root
 
 3° Passo:
 Na pasta do projeto, no terminal digite o comando:
---php artisan migrate;
+-> php artisan migrate;
 
 4° Passo:
 Na pasta do projeto, abrir o terminal de comando (prompt) e digitar o comando para subir o servidor do projeto. O comando é:
-
--- php artisan serve;
+-> php artisan serve;
 
 Feito isto vc poderá rodar o projeto tranquilamente. Basicamento o projeto é uma loja virtual de artigos em geral onde é possível cadastrar o cliente e o mesmo 
 efetuar suas compras pela loja virtual.
